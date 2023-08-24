@@ -13,9 +13,9 @@ Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
 
-GIF created with Kapture and Giphy.  
+GIF created with Kapture and Imgur.  
 
-/private/var/folders/nl/fgfbfldx2sd1sjg57k9y4bdc0000gn/T/83d4fa653747d28e50d0becc7a8936c1/Kapture 2023-08-23 at 18.23.13.gif
+https://imgur.com/vewJjQW
 
 App Brainstorming (Step 4)
 1. Rover
