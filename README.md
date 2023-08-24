@@ -14,7 +14,8 @@ Here's a walkthrough of implemented user stories:
 
 
 GIF created with Kapture and Giphy.  
-/private/var/folders/nl/fgfbfldx2sd1sjg57k9y4bdc0000gn/T/b0c203b69851c36ce695f33b0930e36f/Kapture 2023-08-23 at 18.23.13.gif
+
+/private/var/folders/nl/fgfbfldx2sd1sjg57k9y4bdc0000gn/T/83d4fa653747d28e50d0becc7a8936c1/Kapture 2023-08-23 at 18.23.13.gif
 
 App Brainstorming (Step 4)
 1. Rover
